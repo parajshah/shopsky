@@ -21,10 +21,7 @@ body {
 }
 
 .carousel-item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
+  min-width: fit-content;
   height: 90vh;
 }
 
