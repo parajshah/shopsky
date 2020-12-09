@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #111111;
+  font-family: "Poppins", sans-serif;
+}
+
+.product-card {
+  border: #999999 0.5px solid;
+  border-radius: 5%;
+}
+
+.product-card h4 {
+  font-size: large;
+}
+
+.product-card .product-description-short {
+  padding-top: 2%;
+  border-top: #999999 1px solid;
+}
